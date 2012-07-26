@@ -7,9 +7,9 @@
  * located on sourceforge. Please look there for
  * more details about this file.
  * ffffffffffffffffffffffffffffffff
- * ####E4K3lb3I7H7coBZAfFU0wPk7####
- * ####hLktBIPmVAAF1*YFfNzpusNA####
- * ####H8B1SQ==                ####
+ * ####E4K3lb3I7H5StoQHRlgxkUYs####
+ * ####XSPt*4mXfVJjLt34BfZoJesx####
+ * ####bx*ptA==                ####
  * ffffffffffffffffffffffffffffffff
  **/
 #if 0
